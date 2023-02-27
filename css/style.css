@@ -1,0 +1,39 @@
+body{
+   font-family: "Poppins";
+   font-weight: 700;
+   color: #637381;
+   background: #E5E5E5;
+}
+[class*="__container"]{
+   max-width: 1270px;
+   margin: 0 auto;
+}
+.header__container{
+   padding-top: 37px;
+   padding-bottom: 37px;
+}
+[class*="__data"]{
+   font-weight: 300;
+   font-size: 12px;
+   color: #495057;
+}
+[class*="__text"]{
+   font-weight: 500;
+   font-size: 16px;
+   line-height: 25px;
+   color: #212529;
+}
+.title{
+   font-weight: 700;
+   font-size: 25px;
+   line-height: 40px; 
+   color: #212529;
+}
+.footer {
+   background: #212529;
+   padding: 100px;
+   color: rgba(248, 249, 250, 0.5);
+   font-weight: 500;
+   font-size: 12px;
+   line-height: 25px;
+}
